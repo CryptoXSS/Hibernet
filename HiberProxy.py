@@ -437,7 +437,7 @@ useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			]
 
 # urls vari
-nurls = ["https://www.my-proxy.com/free-transparent-proxy.html",
+nurls = ["https://cyber-hub.net/proxy.txt",
 		"https://www.my-proxy.com/free-anonymous-proxy.html", "https://www.my-proxy.com/free-elite-proxy.html", "https://www.my-proxy.com/free-socks-5-proxy.html",
 		"https://www.my-proxy.com/free-proxy-list.html", "http://www.aliveproxy.com/de-proxy-list/", "http://www.aliveproxy.com/jp-proxy-list/",
 		"http://www.aliveproxy.com/ca-proxy-list/", "http://www.aliveproxy.com/ru-proxy-list/", "http://www.aliveproxy.com/proxy-list-port-80/",
