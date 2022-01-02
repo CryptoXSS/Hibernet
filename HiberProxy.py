@@ -437,9 +437,9 @@ useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			]
 
 # urls vari
-nurls = ["https://proxylist.geonode.com/api/proxy-list?limit=50&page=1&sort_by=lastChecked&sort_type=desc&filterUpTime=100&protocols=http%2Chttps&anonymityLevel=elite&anonymityLevel=anonymous&anonymityLevel=transparent", "http://www.aliveproxy.com/anonymous-proxy-list/",
-		"http://www.aliveproxy.com/fastest-proxies/", "http://www.aliveproxy.com/us-proxy-list/", "http://www.aliveproxy.com/gb-proxy-list/",
-		"http://www.aliveproxy.com/fr-proxy-list/", "http://www.aliveproxy.com/de-proxy-list/", "http://www.aliveproxy.com/jp-proxy-list/",
+nurls = ["https://www.my-proxy.com/free-transparent-proxy.html",
+		"https://www.my-proxy.com/free-anonymous-proxy.html", "https://www.my-proxy.com/free-elite-proxy.html", "https://www.my-proxy.com/free-socks-5-proxy.html",
+		"https://www.my-proxy.com/free-proxy-list.html", "http://www.aliveproxy.com/de-proxy-list/", "http://www.aliveproxy.com/jp-proxy-list/",
 		"http://www.aliveproxy.com/ca-proxy-list/", "http://www.aliveproxy.com/ru-proxy-list/", "http://www.aliveproxy.com/proxy-list-port-80/",
 		"http://www.aliveproxy.com/proxy-list-port-81/", "http://www.aliveproxy.com/proxy-list-port-3128/", "http://www.aliveproxy.com/proxy-list-port-8000/",
 		"http://www.aliveproxy.com/proxy-list-port-8080/", "http://webanetlabs.net/publ/24", "http://www.proxz.com/proxy_list_high_anonymous_0.html",
